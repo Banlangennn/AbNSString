@@ -1,0 +1,6 @@
+framework module Pods_AbNSString_Example {
+  umbrella header "Pods-AbNSString_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

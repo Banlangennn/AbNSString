@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AbNSString'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AbNSString.'
+  s.summary          = 'this is a AbNSString podspec.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/songzhen-tf/AbNSString'
+  s.homepage         = 'https://github.com/SongZhenAbbyabbie/AbNSString'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'songzhen-tf' => '1933343046@qq.com' }
-  s.source           = { :git => 'https://github.com/songzhen-tf/AbNSString.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SongZhenAbbyabbie/AbNSString.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,0 +1,6 @@
+framework module AbNSString {
+  umbrella header "AbNSString-umbrella.h"
+
+  export *
+  module * { export * }
+}

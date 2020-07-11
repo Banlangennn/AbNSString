@@ -1,0 +1,27 @@
+PODS:
+  - AbNSString (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AbNSString (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AbNSString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AbNSString: ae934e9a2554d746c750b4f66803fb088f2747a8
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 563b70719e3aed607f2f20e69ae438218d6b2e68
+
+COCOAPODS: 1.7.5
